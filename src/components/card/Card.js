@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Option from './Option';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import './Card.css';
 
 const Card = props => {
@@ -51,13 +52,25 @@ const Card = props => {
         )
     }
 
+    const cardImageStyle = { backgroundImage: `url(${props.img})` }
+
     return (
         <section className="card">
-            <img src={props.img} alt="Card" className="card-image" />
-            <h1 className="card-name">{props.name}</h1>
-            {props.size && loadSizes()}
-            {props.extras && loadExtras()}
-            <button className="addToCart">Add to Cart</button>
+            <div style={cardImageStyle} className="card-image">
+                <div className="card-image-shadow"></div>
+                <h1 className="card-name">{props.name}</h1>
+            </div>
+            <div className="card-content">
+                {props.size && loadSizes()}
+                {props.extras && loadExtras()}
+                {(!props.extra && !props.size) &&
+                    <p className='card-para'>{props.desc}</p>
+                }
+                <button className="addToCart">
+                    Add to Cart
+                    <ShoppingCartIcon className='cart-icon' />
+                </button>
+            </div>
         </section>
     )
 }

@@ -1,6 +1,5 @@
 import './Menu.css';
 import Card from '../../components/card/Card';
-import Category from '../../components/card/Category';
 import MenuBook from './../../MenuBook.json';
 
 const Menu = () => {
@@ -15,7 +14,7 @@ const Menu = () => {
                 const dishesComp = mapDishes(item.dishes);
                 return (
                     <>
-                        <Category title={item.category} />
+                        <h1 className="category">{item.category}</h1>
                         {dishesComp}
                     </>
                 )
