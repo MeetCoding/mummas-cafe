@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
 export const FADE_TIME = 2; //seconds
-export const APPEAR_DIST = 50; //pixels
+export const APPEAR_DIST = 30; //pixels
 export const Y_DISP = 20; //pixels
 
 export default function useFadeEffect(compRef) {

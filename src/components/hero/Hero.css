@@ -28,9 +28,9 @@
 }
 .hero-heading {
     font-family: 'Satisfy', cursive;
-    color: var(--navy);
+    color: var(--yellow);
     -webkit-text-stroke-width: 3px;
-    -webkit-text-stroke-color: var(--blue-strong);
+    -webkit-text-stroke-color: var(--red);
     font-size: 4rem;
     margin-block: 5px;
     margin-inline: 5px;
@@ -46,8 +46,8 @@
     padding-inline: 20px;
     text-decoration: none;
     font-size: 1.3rem;
-    background-color: var(--blue-strong);
-    border: 5px solid var(--blue);
+    background-color: var(--red);
+    border: 5px solid var(--yellow);
     color: var(--white);
     border-radius: 10px;
     margin: 5px;
