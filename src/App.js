@@ -2,6 +2,7 @@ import './App.css';
 import Hero from './components/hero/Hero';
 import Intro from './components/Intro';
 import Goals from './components/Goals';
+import Awards from './components/Awards';
 import { useEffect } from 'react';
 import { APPEAR_DIST, Y_DISP } from './hooks/useFadeEffect';
 
@@ -17,6 +18,7 @@ function App() {
       <Hero />
       <Intro />
       <Goals />
+      <Awards />
     </div>
   );
 }
