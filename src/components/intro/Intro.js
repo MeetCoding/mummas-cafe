@@ -1,19 +1,11 @@
 import { useEffect, useRef } from 'react';
+import useFadeEffect from '../../hooks/useFadeEffect';
 import './Intro.css';
 
 const Intro = () => {
 
     const intro = useRef(null);
-
-    useEffect(() => {
-        window.addEventListener('scroll', () => {
-            const height = document.documentElement.clientHeight;
-            const top = intro.current.getBoundingClientRect().top;
-            if (height - top > 20) {
-                intro.current.classList.add('show-intro');
-            }
-        })
-    }, [])
+    useFadeEffect(intro);
 
     return (
         <div ref={intro} className="intro">
