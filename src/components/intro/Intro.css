@@ -1,0 +1,17 @@
+.intro {
+    padding-block: 50px;
+    padding-inline: 10%;
+    transform: translateY(20px);
+    opacity: 0;
+    transition: all 2s;
+    background-color: var(--white);
+}
+.show-intro {
+    transform: translateY(0);
+    opacity: 1;
+}
+.intro-heading {
+    text-decoration: underline;
+    text-decoration-color: var(--yellow);
+    text-decoration-thickness: 7px;
+}
