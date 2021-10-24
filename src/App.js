@@ -1,10 +1,10 @@
 import './App.css';
-import Hero from './components/hero/Hero';
-import Intro from './components/Intro';
-import Goals from './components/Goals';
-import Awards from './components/Awards';
+import Home from './pages/home/Home';
+import Menu from './pages/menu/Menu';
+import Cart from './pages/cart/Cart';
 import { useEffect } from 'react';
 import { APPEAR_DIST, Y_DISP } from './hooks/useFadeEffect';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
 
@@ -14,12 +14,15 @@ function App() {
   }, [])
 
   return (
-    <div className='app'>
-      <Hero />
-      <Intro />
-      <Goals />
-      <Awards />
-    </div>
+    <Router>
+      <div className='app'>
+        <Switch>
+          <Route exact path='/' component={Home} />
+          <Route exact path='/menu' component={Menu} />
+          <Route exact path='/cart' component={Cart} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
 

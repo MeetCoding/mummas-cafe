@@ -12,7 +12,7 @@ const Goals = () => {
     useFadeEffect(image);
 
     return (
-        <div ref={goals} className="home-block">
+        <section ref={goals} className="home-block">
             <div className="home-content">
                 <h1 className="home-heading">Our Goals</h1>
                 <ul className="home-list">
@@ -22,7 +22,7 @@ const Goals = () => {
                 </ul>
             </div>
             <img ref={image} src={imageLink} alt="Goals" className="home-image" />
-        </div>
+        </section>
     )
 }
 

@@ -12,7 +12,7 @@ const Intro = () => {
     useFadeEffect(image);
 
     return (
-        <div ref={intro} className="home-block">
+        <section ref={intro} className="home-block">
             <div className="home-content">
                 <h1 className="home-heading">Introduction</h1>
                 <p className="home-para">
@@ -22,7 +22,7 @@ const Intro = () => {
                 </p>
             </div>
             <img ref={image} src={imageLink} alt="Intro" className="home-image" />
-        </div>
+        </section>
     )
 }
 
