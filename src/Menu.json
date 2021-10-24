@@ -1,0 +1,323 @@
+{
+    "todaysSpecial": {},
+    "ourSpecial": {},
+    "items": [
+        {
+            "category": "Pizza",
+            "dishes": [
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-margherita-.jpg",
+                    "name": "Neapolitan Pizza",
+                    "desc": "Neapolitan is the original pizza. This delicious pie dates all the way back to 18th century in Naples, Italy. During this time, the poorer citizens of this seaside city frequently purchased food that was cheap and could be eaten quickly. Luckily for them, Neapolitan pizza was affordable and readily available through numerous street vendors.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-deepdish.jpg",
+                    "name": "Chicago Pizza",
+                    "desc": "Chicago pizza, also commonly referred to as deep-dish pizza, gets its name from the city it was invented in. During the early 1900’s, Italian immigrants in the windy city were searching for something similar to the Neapolitan pizza that they knew and loved. Instead of imitating the notoriously thin pie, Ike Sewell had something else in mind. He created a pizza with a thick crust that had raised edges, similar to a pie, and ingredients in reverse, with slices of mozzarella lining the dough followed by meat, vegetables, and then topped with a can of crushed tomatoes.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/flat.jpg",
+                    "name": "New York-Style Pizza",
+                    "desc": "With its characteristic large, foldable slices and crispy outer crust, New York-style pizza is one of America’s most famous regional pizza types. Originally a variation of Neapolitan-style pizza, the New York slice has taken on a fame all its own, with some saying its unique flavor has to do with the minerals present in New York’s tap water supply.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/flat.jpg",
+                    "name": "Sicilian Pizza",
+                    "desc": "Sicilian pizza provides a thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce. This square-cut pizza is served with or without cheese, and often with the cheese underneath the sauce to prevent the pie from becoming soggy. Sicilian pizza was brought to America in the 19th century by Sicilian immigrants and became popular in the United States after the Second World War.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/blog/2016/8/onions.jpg",
+                    "name": "Greek Pizza",
+                    "desc": "Greek pizza was created by Greek immigrants who came to America and were introduced to Italian pizza. Greek-style pizza, especially popular in the New England states, features a thick and chewy crust cooked in shallow, oiled pans, resulting in a nearly deep-fried bottom. While this style has a crust that is puffier and chewier than thin crust pizzas, it’s not quite as thick as a deep-dish or Sicilian crust.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-gourmet.jpg",
+                    "name": "California Pizza",
+                    "desc": "California pizza, or gourmet pizza, is known for its unusual ingredients. This pizza got its start back in the late 1970’s when Chef Ed LaDou began experimenting with pizza recipes in the classic Italian restaurant, Prego. He created a pizza with mustard, ricotta, pate, and red pepper, and by chance, served it to Wolfgang Puck. Impressed with LaDou’s innovative pie, Puck invited him to be a head pizza chef at his restaurant. It was here that LaDou came up with over 250 unique pizza recipes that eventually formed the menu of the chain restaurant California Pizza Kitchen.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/buying_guide/2014/11/pizzatypes-gourmet.jpg",
+                    "name": "Detroit Pizza",
+                    "desc": "Reflecting the city’s deep ties to the auto industry, Detroit-style pizza was originally baked in a square automotive parts pan in the 1940’s. Detroit pizza is first topped with pepperoni, followed by brick cheese which is spread to the very edges of the pan, yielding a caramelized cheese perimeter. Sauce is then spooned over the pizza, an order similar to Chicago-style pizza. This pizza features a thick, extra crispy crust that is tender and airy on the inside.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                },
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/blog/2019/3/blog-types-pizza_in-blog-8.jpg",
+                    "name": "St. Louis Pizza",
+                    "desc": "Looking for a light slice? St. Louis pizza features a thin crust with a cracker-like consistency that is made without yeast. Due to the crispy crust, St. Louis pizza is usually cut into three- or four-inch rectangles, known as party or tavern cut. This pizza features Provel processed cheese, which is a gooey combination of cheddar, Swiss, and provolone cheeses. St. Louis received an influx of Italian immigrants in the 19th century who were looking for employment opportunities. The Italian community, largely from Milan and Sicily, created the St. Louis-style pizza. Its sweet sauce is reminiscent of the Sicilian influence.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": [
+                        "Onions ₹20",
+                        "Pepperoni ₹30",
+                        "Mushrooms ₹30",
+                        "Black olives ₹30",
+                        "Green peppers ₹10"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Sandwich",
+            "dishes": [
+                {
+                    "img": "https://cdnimg.webstaurantstore.com/uploads/blog/2019/3/blog-types-pizza_in-blog-8.jpg",
+                    "name": "Egg Sandwich",
+                    "desc": "Egg sandwiches are rich in protein, giving your body plenty of energy for the day ahead. Many people will simply have a boiled egg in their breakfast sandwich, but that can get a little repetitive after a while. Instead, you can try different variations on the egg sandwich.",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Grilled-Cheese.jpg",
+                    "name": "Grilled Cheese",
+                    "desc": "There’s nothing like a hearty grilled cheese to get you through the day! The grilled cheese sandwich is truly an American staple. It’s better than just a plain cheese sandwich, since it has more flavor because it has been grilled. ",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Nutella-Sandwich.jpg",
+                    "name": "Nutella Sandwich",
+                    "desc": "You say Nutella, we come running! For a breakfast that could easily pass as a dessert, a nutella sandwich is perfect. You can deep fry a Nutella sandwich for a truly unique taste. You can add all sorts of things to your nutella sandwich too.",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Ice-Cream-Sandwich.jpg",
+                    "name": "Ice Cream Sandwich",
+                    "desc": "Okay, so we said this is a list about sandwiches, but did we say what kind of sandwich? A sandwich is basically when something is stuck between two other pieces of something else. Thus, an ice cream sandwich can make its way onto this list!",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "",
+                    "name": "Olive Sandwich",
+                    "desc": "Olives are high in nutrients, and they are especially good for your cardiovascular system. Put them in a sandwich and you have a nutritious meal with plenty of character. Add in some vegetables and cheese for a serious flavor explosion in your mouth! ",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Ice-Cream-Sandwich.jpg",
+                    "name": "Oreo Ice Cream Sandwich",
+                    "desc": "Sure, you could have an ice cream sandwich with plain vanilla ice cream, but where’s the fun in that? Grab a pack of oreos from your nearest grocery store, stick some ice cream in the middle and you’ve got an oreo ice cream sandwich.",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Ice-Cream-Sandwich.jpg",
+                    "name": "Vegetable Sandwich",
+                    "desc": "For a vegetarian option, you can’t go wrong with a vegetable sandwich. You can cook your veggies in a lot of different ways, so you’re not restricted to having boiled vegetables either. ",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Bread-Sandwich.jpg",
+                    "name": "Bread Sandwich",
+                    "desc": "Bread sandwiches are pretty basic but they still taste great! All you need is two slices of bread – this can be white bread, brown bread or anything else in between.",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://cdn-bpndg.nitrocdn.com/CpZMPKwGohqOxAgaGybHUejVGcoVYwvh/assets/static/optimized/rev-a8eefc3/wp-content/uploads/2021/06/Cheese-Sandwich.jpg",
+                    "name": "Cheese Sandwich",
+                    "desc": "There’s nothing quite like some cheese to make your sandwich truly melt in the mouth! You can do so many things with a cheese sandwich. ",
+                    "size": null,
+                    "extras": null
+                }
+            ]
+        },
+        {
+            "category": "Chinese",
+            "dishes": [
+                {
+                    "img": "https://i.ndtvimg.com/i/2015-10/dimsum_625x350_51446202982.jpg",
+                    "name": "Dim Sums",
+                    "desc": "One of the most loves street food from the north east, widely popular across northern India now comes to your kitchen! Small bite-sized rounds stuffed with veggies or meat. Dimsums are perfect steamed snack to delight those evening cravings.",
+                    "size": [
+                        "Small ₹199",
+                        "Medium ₹299",
+                        "Large ₹399"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2016-06/soup-625_625x350_81466064298.jpg",
+                    "name": "Hot and Sour Soup",
+                    "desc": "Isn't it great to warm up with a piping hot bowl of soup during the winters? Here is a soup with a spicy and sour broth. It is made with the goodness of mushrooms, cabbage, carrot and a spicy twist of red peppers or white pepper and sour with vinegar.",
+                    "size": [
+                        "Small ₹249",
+                        "Medium ₹349",
+                        "Large ₹449"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2016-06/noodles-625_625x350_41466064269.jpg",
+                    "name": "Noodles",
+                    "desc": "One of the staples in every chinese home, noodles are not just a kid's favourite snack to binge on but are also equally loved by adults. Here is a noodles recipe that is super quick and easy to prepare at home. Just bung in all your favourite veggies and create a masterpiece of your own.",
+                    "size": [
+                        "Small ₹99",
+                        "Medium ₹149",
+                        "Large ₹199"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2015-02/chilli-chicken_625x350_81424323578.jpg",
+                    "name": "Szechwan Chilli",
+                    "desc": "A fiery delight straight from the Sichuan region. It is loaded with pungent spices like brown pepper. red chillies, ginger, green chillies and white pepper.",
+                    "size": [
+                        "Small ₹399",
+                        "Medium ₹499",
+                        "Large ₹599"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2015-02/spring-roll_625x350_51424323845.jpg",
+                    "name": "Spring Rolls",
+                    "desc": "A crisp appetizer where shredded veggies are encased in thin sheets and then fried golden. Little munchies to prepare at home for a high tea menu or just a party starter, serve with a tangy dip.",
+                    "size": [
+                        "Small ₹399",
+                        "Medium ₹499",
+                        "Large ₹599"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2016-06/tofu-with-rice_625x350_81466070125.jpg",
+                    "name": "Stir Fried Tofu with Rice",
+                    "desc": "A simple stir-fry with tofu and oriental sauces. Sti fried togu with rice is a great main course dish to prepare at home laced with flavourful spices and sauces. Serve with some fried rice to make a wholesome meal.",
+                    "size": [
+                        "Small ₹399",
+                        "Medium ₹499",
+                        "Large ₹599"
+                    ],
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2015-02/mushroom-rice_625x350_61424324920.jpg",
+                    "name": "Shiitake Fried Rice with Water Chestnuts",
+                    "desc": "A healthy frice recipe packed with the goodness of mushrooms and water chestnuts that are often used in Chinese meals. Here is a delicious fried rice recipe dish that is fast, filling and flavourful. You can serve with a gravy dish of hot garlic sauce.",
+                    "size": [
+                        "Small ₹399",
+                        "Medium ₹499",
+                        "Large ₹599"
+                    ],
+                    "extras": null
+                }
+            ]
+        },
+        {
+            "category": "Italian",
+            "dishes": [
+                {
+                    "img": "https://i.ndtvimg.com/i/2017-09/caprese-salad_625x350_51506417724.jpg",
+                    "name": "Caprese Salad with Pesto Sauce",
+                    "desc": "Nothing like a fresh tomato salad in summers! A great antipasto bite to start your meal with. This combination of juicy tomatoes and mozzarella cheese salad topped with freshly made pesto sauce is a distinct yet simple one. It offers a twist to the classic caprese salad. ",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2017-09/panzenella_600x300_71506417795.jpg",
+                    "name": "Panzenella",
+                    "desc": "Panzenella is a Tuscan bread salad, ideal for summer. It does not follow a particular recipe, but the two ingredients that do not change are tomatoes and bread. This salad is great with a chilled glass of Prosecco and lots of sunshine!",
+                    "size": null,
+                    "extras": null
+                },
+                {
+                    "img": "https://i.ndtvimg.com/i/2017-09/bruschetta_625x350_71506417841.jpg",
+                    "name": "Bruschetta",
+                    "desc": "An antipasto dish, bruschetta has grilled bread topped with veggies, rubbed garlic and tomato mix. A country bread sliced and topped with different toppings - the evergreen tomato-basil and an inventive mushroom-garlic. The classic Italian starter!",
+                    "size": null,
+                    "extras": null
+                }
+            ]
+        }
+    ]
+}
