@@ -1,0 +1,48 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.home-block {
+    padding-block: 50px;
+    padding-inline: 10%;
+    background-color: var(--white);
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+}
+.home-content {
+
+}
+.home-heading {
+    text-decoration: underline;
+    text-decoration-color: var(--yellow);
+    text-decoration-thickness: 7px;
+}
+.home-para {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+}
+.home-list {
+    list-style: square;
+}
+.home-list-item {
+    font-size: 1.1rem;
+    line-height: 1.6rem;
+}
+.home-image {
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    border-radius: 20px;
+    margin: 20px;
+    flex-shrink: 0;
+}
+@media (max-width: 1000px) {
+    .home-block {
+        flex-direction: column;
+    }
+}

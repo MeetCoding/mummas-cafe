@@ -10,4 +10,5 @@ body {
   --navy: #032B43;
   --red: #EF2D56;
   font-family: 'Signika', sans-serif;
+  background-color: var(--white);
 }
